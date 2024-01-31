@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AcmeInvestments/.vs/AcmeInvestments
+/AcmeInvestments/AcmeInvestments/obj
+/AcmeInvestments/AcmeInvestmentsDB/bin/Debug
+/AcmeInvestments/AcmeInvestmentsDB/obj/Debug
+/AcmeInvestments/AcmeInvestmentsTest/obj
+/AcmeInvestments/AcmeInvestments/bin/Debug/net6.0
+/AcmeInvestments/AcmeInvestmentsTest/bin/Debug/net6.0
+/AcmeInvestments/AcmeInvestmentsDB/AcmeInvestmentsDB.sqlproj.user
